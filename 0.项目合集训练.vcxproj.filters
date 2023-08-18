@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\45.buble排序">
+      <UniqueIdentifier>{4a5f1eea-b512-44a2-9168-4b2c55aa5454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\46.二维数组">
+      <UniqueIdentifier>{4f1419e1-37c2-49b0-abe5-e8052045d44c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\47.学生成绩案例">
+      <UniqueIdentifier>{ca76a5c1-a53f-4047-9e8a-aaec8f5d09e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\48.多维数组">
+      <UniqueIdentifier>{f69b644d-49b3-4200-8b52-95841bd0b906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\49.字符串和字符数组">
+      <UniqueIdentifier>{b0099d98-f440-4c2d-9a92-39c2a4c76aba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\50.字符串查找字符串">
+      <UniqueIdentifier>{bfeb380c-c9c9-4c0b-9ff6-085bcc9562f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\52.检测字符串出现次数">
+      <UniqueIdentifier>{a2740e45-c3f6-487a-8aa1-dcd8fc76290a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\54.随机数">
+      <UniqueIdentifier>{c0ad4636-f27f-4aad-b309-6a1d1ff8589d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\60.指针的定义和使用">
+      <UniqueIdentifier>{2e14a3ea-5d46-4720-87b6-4e38f997aa33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\61.野指针和空指针">
+      <UniqueIdentifier>{aeeaa519-74de-463a-a21b-f382326ba70a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\62.万能指针">
+      <UniqueIdentifier>{dda740cd-d2d6-4ec5-88ec-e210c7b8fc40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\65.指针与数组">
+      <UniqueIdentifier>{c38bc3a6-b095-4b61-9f78-d9b7e572cb54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\66.指针的运算">
+      <UniqueIdentifier>{007cc1a6-4eae-434c-ba53-39111bb48dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\69指针和地址传递">
+      <UniqueIdentifier>{070cb95d-6377-4340-8a1e-ca77a640a0bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\70.数组名做为函数参数">
+      <UniqueIdentifier>{edc61307-be7d-4333-be88-c327f8229a1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\71.字符串去空格">
+      <UniqueIdentifier>{32b0766d-7552-4fff-8611-ebc491f46a67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\97.堆空间开辟和释放">
+      <UniqueIdentifier>{aa3469b9-910d-4ddc-a8d4-aa6126e01ec1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\99.内存处理函数">
+      <UniqueIdentifier>{1a44e87c-09d2-44e1-9266-6d90c9b0e261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\102.二级指针开辟空间">
+      <UniqueIdentifier>{1451b812-e15d-4e76-ba33-a0c65d4ab35e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\103.结构体的定义和使用">
+      <UniqueIdentifier>{581b6cd9-73df-4f89-8903-32e5136107dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\104.结构图排序和开辟空间存储结构体">
+      <UniqueIdentifier>{1cb53835-1864-4466-a53e-1304eb289da9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\105.结构体嵌套结构体">
+      <UniqueIdentifier>{cfcd5b86-489c-4c0d-b7e0-1761ef9add9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\106.结构体赋值">
+      <UniqueIdentifier>{ec2b98e2-8640-4cbf-808e-541355a69d08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\107.结构体指针">
+      <UniqueIdentifier>{8ac0da14-50db-4549-8404-0d09dbc055ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\110.枚举函数">
+      <UniqueIdentifier>{9ea5bb39-20f2-4f0b-b035-f0163341028e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\113-114.文件开关，字符串读写">
+      <UniqueIdentifier>{8be0e5b9-fddd-4dbf-a777-637179b421f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\117-118.四则运算">
+      <UniqueIdentifier>{fad2cfba-048c-46f9-bca9-cf5770f08297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\119.文件格式化读写">
+      <UniqueIdentifier>{9665aa4d-8dc1-48f9-9cca-82a59420946c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\120.大数据排序">
+      <UniqueIdentifier>{11376787-7ee4-458d-a060-ecbaf6ab77d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\const修饰指针">
+      <UniqueIdentifier>{230dce52-95ef-4d30-8471-d1b7c8ee1642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\59.多文件编程（从这下面开始改main）">
+      <UniqueIdentifier>{6cf2b7ac-f089-47d4-bf79-55ea5a8dd380}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="buble.c">
+      <Filter>源文件\45.buble排序</Filter>
+    </ClCompile>
+    <ClCompile Include="..\46二维数组\二位数组的定义和使用.c">
+      <Filter>源文件\46.二维数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\47学生成绩案例\学生考试.c">
+      <Filter>源文件\47.学生成绩案例</Filter>
+    </ClCompile>
+    <ClCompile Include="..\47学生成绩案例\学生考试-自测.c">
+      <Filter>源文件\47.学生成绩案例</Filter>
+    </ClCompile>
+    <ClCompile Include="..\48多维数组\多维数组.c">
+      <Filter>源文件\48.多维数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\49字符串和字符数组\字符串和字符数组.c">
+      <Filter>源文件\49.字符串和字符数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\50字符串查找字符串\字符串查找字符串.c">
+      <Filter>源文件\50.字符串查找字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\52检测字符出现次数\检测每个字符出现次数.c">
+      <Filter>源文件\52.检测字符串出现次数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\52检测字符出现次数\检测字符出现次数.c">
+      <Filter>源文件\52.检测字符串出现次数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\54随机数(待自学)\随机数.c">
+      <Filter>源文件\54.随机数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\59多文件编程\demo1.c">
+      <Filter>源文件\59.多文件编程（从这下面开始改main）</Filter>
+    </ClCompile>
+    <ClCompile Include="..\59多文件编程\demo2.c">
+      <Filter>源文件\59.多文件编程（从这下面开始改main）</Filter>
+    </ClCompile>
+    <ClCompile Include="..\60指针的定义和使用\指针的定义和使用.c">
+      <Filter>源文件\60.指针的定义和使用</Filter>
+    </ClCompile>
+    <ClCompile Include="..\61野指针和空指针\野指针和空指针.c">
+      <Filter>源文件\61.野指针和空指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\62万能指针\万能指针.c">
+      <Filter>源文件\62.万能指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\65指针数组\指针数组.c">
+      <Filter>源文件\65.指针与数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\66指针的运算\指针的运算.c">
+      <Filter>源文件\66.指针的运算</Filter>
+    </ClCompile>
+    <ClCompile Include="..\69值传递和地址传递\值传递和地址传递.c">
+      <Filter>源文件\69指针和地址传递</Filter>
+    </ClCompile>
+    <ClCompile Include="..\70数组名作为函数参数\数组名作为函数参数.c">
+      <Filter>源文件\70.数组名做为函数参数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\71字符串去空格\字符串去空格（练习）.c">
+      <Filter>源文件\71.字符串去空格</Filter>
+    </ClCompile>
+    <ClCompile Include="..\71字符串去空格\字符串去空格.c">
+      <Filter>源文件\71.字符串去空格</Filter>
+    </ClCompile>
+    <ClCompile Include="..\97堆空间开辟和释放\堆空间存储数据.c">
+      <Filter>源文件\97.堆空间开辟和释放</Filter>
+    </ClCompile>
+    <ClCompile Include="..\97堆空间开辟和释放\堆空间开辟和释放.c">
+      <Filter>源文件\97.堆空间开辟和释放</Filter>
+    </ClCompile>
+    <ClCompile Include="..\99内存处理函数（menset）\内存处理函数memset(error).c">
+      <Filter>源文件\99.内存处理函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\99内存处理函数（menset）\内存拷贝函数memcpy.c">
+      <Filter>源文件\99.内存处理函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\99内存处理函数（menset）\内存拷比较函数memcmp.c">
+      <Filter>源文件\99.内存处理函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\102二级指针开辟空间\开辟二级指针空间.c">
+      <Filter>源文件\102.二级指针开辟空间</Filter>
+    </ClCompile>
+    <ClCompile Include="..\103结构体的定义和使用\结构体的定义和使用.c">
+      <Filter>源文件\103.结构体的定义和使用</Filter>
+    </ClCompile>
+    <ClCompile Include="..\103结构体的定义和使用\结构体的定义与使用(GPT).c">
+      <Filter>源文件\103.结构体的定义和使用</Filter>
+    </ClCompile>
+    <ClCompile Include="..\104结构图排序和开辟空间存储结构体\结构体排序无开辟空间（GPT）.c">
+      <Filter>源文件\104.结构图排序和开辟空间存储结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="..\104结构图排序和开辟空间存储结构体\开辟空间存储结构体和结构体排序.c">
+      <Filter>源文件\104.结构图排序和开辟空间存储结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="..\105.结构体嵌套结构体\GPT教你.c">
+      <Filter>源文件\105.结构体嵌套结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="..\105.结构体嵌套结构体\结构体嵌套结构体.c">
+      <Filter>源文件\105.结构体嵌套结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="..\106结构体赋值\GPT指错.c">
+      <Filter>源文件\106.结构体赋值</Filter>
+    </ClCompile>
+    <ClCompile Include="..\106结构体赋值\结构体赋值.c">
+      <Filter>源文件\106.结构体赋值</Filter>
+    </ClCompile>
+    <ClCompile Include="..\107结构体和指针\GTP修改.c">
+      <Filter>源文件\107.结构体指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\107结构体和指针\结构体和指针.c">
+      <Filter>源文件\107.结构体指针</Filter>
+    </ClCompile>
+    <ClCompile Include="..\110枚举函数\GTP版本.c">
+      <Filter>源文件\110.枚举函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\110枚举函数\枚举函数.c">
+      <Filter>源文件\110.枚举函数</Filter>
+    </ClCompile>
+    <ClCompile Include="..\113-114 文件打开关闭，字符读写\114文件字符读写.c">
+      <Filter>源文件\113-114.文件开关，字符串读写</Filter>
+    </ClCompile>
+    <ClCompile Include="..\113-114 文件打开关闭，字符读写\116文件行读写.c">
+      <Filter>源文件\113-114.文件开关，字符串读写</Filter>
+    </ClCompile>
+    <ClCompile Include="..\113-114 文件打开关闭，字符读写\113文件打开及关闭.c">
+      <Filter>源文件\113-114.文件开关，字符串读写</Filter>
+    </ClCompile>
+    <ClCompile Include="..\113-114 文件打开关闭，字符读写\114GTP.c">
+      <Filter>源文件\113-114.文件开关，字符串读写</Filter>
+    </ClCompile>
+    <ClCompile Include="..\117-118四则运算\117四则运算.c">
+      <Filter>源文件\117-118.四则运算</Filter>
+    </ClCompile>
+    <ClCompile Include="..\117-118四则运算\117四则运算2.c">
+      <Filter>源文件\117-118.四则运算</Filter>
+    </ClCompile>
+    <ClCompile Include="..\119文件格式化读写\119文件格式化读写.c">
+      <Filter>源文件\119.文件格式化读写</Filter>
+    </ClCompile>
+    <ClCompile Include="..\120大数据排序\120大数据排序.c">
+      <Filter>源文件\120.大数据排序</Filter>
+    </ClCompile>
+    <ClCompile Include="..\const修饰指针\const修饰指针.c">
+      <Filter>源文件\const修饰指针</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\59多文件编程\head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
